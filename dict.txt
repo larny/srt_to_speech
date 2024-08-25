@@ -1,0 +1,64 @@
+cd--Cinema 4D
+CD--Cinema 4D
+ccd--Cinema 4D
+CAD--Cinema 4D
+他--它
+random walk--Randomwalk
+science--SSS
+发线--法线
+Random Walk--Randomwalk
+飞行--分形
+显实--写实
+矫正--校正
+分音--分形
+伽马--gamma
+风行--分形
+不光--布光
+三年--三点
+二d--2D
+三D--三点
+浮光--辅光
+福光--辅光
+过暴--过曝
+灰烬--灰烬
+会接--灰阶
+汇聚--灰阶
+高温--高光
+屈光--区域光
+iOS--IES
+紧身--景深
+散步--散布
+输液--树叶
+燥--噪
+地图--贴图
+读写--独显
+物质--污渍
+错度--粗糙度
+铁图--贴图
+实力--实例
+蚌埠--Bump
+穿缝--Transform
+LOMO--Normal
+lomo--Normal
+奥特曼--Octane
+h点--HDR
+C4D--Cinema 4D
+RS--Redshift
+奥克兰--Octane
+OC--Octane
+PS--Photoshop
+ps--Photoshop
+CTRL--Control
+AE--After Effects
+ae--After Effects
+hd2--HDR
+字画--置换
+界面--渐变
+涂层--图层
+罗某--Normal
+针--帧
+立场--力场
+子集--子级
+钢--刚
+缸--刚
+玉--域

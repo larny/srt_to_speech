@@ -1,0 +1,55 @@
+3S--SSS
+fractal noise-- noise
+amount-- 
+backlight--back light
+bump-- 
+chaos-- 
+bump-- 
+coating-- 
+color correction-- 
+composite material-- 
+Ctrl--Control
+ctrl--Control
+contrast-- 
+cube-- 
+cubic-- 
+drag out--make
+dirt-- 
+displacement-- 
+everyone--you
+falloff-- 
+field-- 
+depth of Field -- depth of field
+float-- 
+gamma-- 
+cube-- 
+generator-- 
+glossy-- 
+gradient-- 
+hue-- 
+height--
+invert-- 
+laggy--slow
+material layer-- 
+material type-- 
+mask-- 
+might-may
+multiply--
+empty object--Null 
+radius-- 
+refresh--update
+saturation-- 
+sub material-- 
+subtract-- 
+thickness-- 
+translucency--transparency
+translucent-- transparent
+triplanar-- 
+highlight compression -- Highlight Compression
+exposure -- Exposure
+AE -- After Effects
+Openexr -- OpenEXR
+Cg -- cg
+OBJect --
+AOv -- AOV
+Cm -- cm
